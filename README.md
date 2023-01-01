@@ -64,3 +64,8 @@ Run the tests:
 ```bash
 npm run test
 ```
+
+To Run Docker Build
+```bash
+docker-compose up
+```
